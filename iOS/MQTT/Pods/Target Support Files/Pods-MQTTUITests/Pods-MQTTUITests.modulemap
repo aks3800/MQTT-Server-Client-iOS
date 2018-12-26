@@ -1,0 +1,6 @@
+framework module Pods_MQTTUITests {
+  umbrella header "Pods-MQTTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
